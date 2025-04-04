@@ -7,7 +7,7 @@ _Is this italic?_ </br>
 ~Is this crossed out?~
 > This is a quote
 
-Basic Git commands
+## Basic Git commands
 ```
 git status
 git add
@@ -18,7 +18,7 @@ git commit
 [Common Git Commands](https://docs.gitlab.com/topics/git/commands/) <br/>
 [Common Syntax](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) <br/>
 
-### List
+### List 1
 1. This
 2. Is
 3. a
@@ -30,4 +30,10 @@ git commit
 * an
 * undordered
 * list
-  
+
+
+```python
+s = "hello wold"
+print(s)
+```
+
