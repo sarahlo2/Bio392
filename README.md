@@ -2,8 +2,8 @@
 ## This is my Git for the UZH Course Bio392
 ### Now I edited this 
  
-**Is this bold?**
-_Is this italic?_
+**Is this bold?** <br/>
+_Is this italic?_ </br>
 ~Is this crossed out?~
 > This is a quote
 
@@ -14,9 +14,9 @@ git add
 git commit
 ```
 ### Useful Links
-[Makrdown Syntax Link](https://education.github.com/git-cheat-sheet-education.pdf)
-[Common Git Commands](https://docs.gitlab.com/topics/git/commands/)
-[Common Syntax](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
+[Makrdown Syntax Link](https://education.github.com/git-cheat-sheet-education.pdf) <br/>
+[Common Git Commands](https://docs.gitlab.com/topics/git/commands/) <br/>
+[Common Syntax](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) <br/>
 
 ### List
 1. This
