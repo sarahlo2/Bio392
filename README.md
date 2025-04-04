@@ -4,7 +4,7 @@
  
 **Is this bold?**
 _Is this italic?_
-
+~Is this crossed out?~
 > This is a quote
 
 Basic Git commands
