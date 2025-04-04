@@ -20,6 +20,7 @@ _Is this italic?_ </br>
 * undordered
 * list
 ## Basic Git commands
+
 ```
 git status
 git add
@@ -37,4 +38,15 @@ git commit
 s = "This highlights Python Syntax"
 print(s)
 ```
+
+
+### Footnotes
+Here is a Footnote[^1]
+
+[^1]It is at the foot. 
+
+
+
+
+
 
