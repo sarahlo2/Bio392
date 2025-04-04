@@ -50,7 +50,7 @@ Here is a Footnote[^1].
 |Header1| Header2|
 |-------|--------|
 |xyz    |abc     |
-|-------|--------|
+|more   |even more|
 
 
 
