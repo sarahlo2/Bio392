@@ -7,17 +7,6 @@ _Is this italic?_ </br>
 ~Is this crossed out?~
 > This is a quote
 
-## Basic Git commands
-```
-git status
-git add
-git commit
-```
-### Useful Links
-[Makrdown Syntax Link](https://education.github.com/git-cheat-sheet-education.pdf) <br/>
-[Common Git Commands](https://docs.gitlab.com/topics/git/commands/) <br/>
-[Common Syntax](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) <br/>
-
 ### List 1
 1. This
 2. Is
@@ -30,8 +19,20 @@ git commit
 * an
 * undordered
 * list
+## Basic Git commands
+```
+git status
+git add
+git commit
+```
+### Useful Links
+[Makrdown Syntax Link](https://education.github.com/git-cheat-sheet-education.pdf) <br/>
+[Common Git Commands](https://docs.gitlab.com/topics/git/commands/) <br/>
+[Common Syntax](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) <br/>
 
 
+
+### Python Code
 ```python
 s = "hello wold"
 print(s)
