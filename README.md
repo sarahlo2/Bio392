@@ -34,7 +34,7 @@ git commit
 
 ### Python Code
 ```python
-s = "hello wold"
+s = "This highlights Python Syntax"
 print(s)
 ```
 
