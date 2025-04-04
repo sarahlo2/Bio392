@@ -11,3 +11,5 @@ git status
 git add
 git commit
 ```
+
+[Makrdown Syntax Link](https://education.github.com/git-cheat-sheet-education.pdf)
