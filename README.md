@@ -41,9 +41,9 @@ print(s)
 
 
 ### Footnotes
-Here is a Footnote[^1]
+Here is a Footnote[^1].
 
-[^1]It is at the foot. 
+[^1]: It is at the foot. 
 
 
 
