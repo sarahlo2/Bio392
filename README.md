@@ -3,8 +3,9 @@
 ### Now I edited this 
  
 **Is this bold?** <br/>
-_Is this italic?_ </br>
+_Is this italic?_ <br/>
 ~Is this crossed out?~
+
 > This is a quote
 ----------------
 ### List 1
