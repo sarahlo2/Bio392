@@ -45,6 +45,13 @@ Here is a Footnote[^1].
 
 [^1]: It is at the foot. 
 
+### Tables
+
+|Header1| Header2|
+|-------|--------|
+|xyz    |abc     |
+|-------|--------|
+
 
 
 
