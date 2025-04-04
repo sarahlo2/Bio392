@@ -19,6 +19,8 @@ _Is this italic?_ </br>
 * an
 * undordered
 * list
+
+----------------------
 ## Basic Git commands
 
 ```
